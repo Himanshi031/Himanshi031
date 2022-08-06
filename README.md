@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshi031
+- 👋 Hi, I am Himanshi
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning Java devlopment
 - 💞️ I’m looking to collaborate on an open source project
