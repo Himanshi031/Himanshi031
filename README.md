@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshi031
 - 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Artificial intelligence
+- 🌱 I’m currently learning Java devlopment
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me 
 
