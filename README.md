@@ -1,6 +1,6 @@
-- 👋 Hi, I am Himanshi
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Java devlopment
+ Hi everyone👋 
+- 👀 I’m currently pursuing BTech in Information Technology.
+- 🌱 I build responsive websites using React, Bootstrap, APIs.
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me 
 
